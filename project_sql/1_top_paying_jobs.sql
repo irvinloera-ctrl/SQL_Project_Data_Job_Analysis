@@ -1,4 +1,3 @@
---delete this lateeer
 
 SELECT
     job_id,
